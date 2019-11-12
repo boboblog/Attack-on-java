@@ -4,7 +4,7 @@ java学习笔记
 
 =================================================
 
-![https://github.com/boboblog/Attack-on-java/blob/master/media/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190924104334.jpg](图片)
+![这里是有一张图片](https://github.com/boboblog/Attack-on-java/blob/master/media/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190924104334.jpg)
 
 # 标题语法
 
